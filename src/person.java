@@ -3,6 +3,10 @@
 		person()
 		{
 			System.out.println("1st constructor ");
+			System.out.println("2st constructor ");
+			System.out.println("3st constructor ");
+			System.out.println("4st constructor ");
+			System.out.println("5st constructor ");
 		}
 		person(String name)
 		{
